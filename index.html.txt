@@ -1,0 +1,33 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>
+		<h1> Ha Minh Dai </h1>
+	</title>
+</head>
+<body style="background-color:red;">
+<!-- kích thước -->
+<h1> ha minh dai </h1>
+<!-- phân đoạn -->
+<p> nguyễn thi thanh hằng </p>
+<!-- ảnh với  chiều dài , chiều rộng-->
+<img src = "C:\Users\Minh Dai\Pictures\Saved Pictures\hehe.jpg" width = "200" height = "300" alt = "ảnh bị lỗi :v" >
+<!-- chứa link dùng thẻ a và thuộc tính href -->
+<a  href = "https://www.w3schools.com"> this is a link </a>
+<!-- biểu thị đường ngang -->
+<br> 
+<!-- in đậm, nghiêng và gạch chân -->
+<b></b>
+<u></u>
+<i></i>
+<pre>
+ha minh dai </br> ahihi
+
+</pre>
+<p style="color:blue>
+màu xanh nà
+</p>
+</--màu nền: style:"backgroud-color:red;"-->
+</body>
+</html>
