@@ -8,6 +8,7 @@ int main()
     cin >> n >> k;
     int sum = 0;
     int Max = 0;
+    // laksjfdkjgkjoiardj
     int i=1;
     while(n--)
     {
